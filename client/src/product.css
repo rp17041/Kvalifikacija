@@ -1,0 +1,36 @@
+.content{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+#content1{
+    display: table;
+    width: 100%;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    padding-top: 50px;
+    border: 1px solid grey;
+}
+#form1{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+form{
+    margin: auto;
+    
+}
+#button{
+    margin: 50px;
+}
+#tb{
+    padding: 15px;
+}
+th, td {
+    padding: 20px;
+  }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
