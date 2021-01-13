@@ -48,11 +48,7 @@ function App() {
           }}/>
         </div>
         <button onClick={submitCustomerData}>Submit</button>
-        <div>
-          {customerList.map((val) => {
-              return  <h2>Number:{val.CUSTOMER_NO} | Name: {val.FIRST_NAME} | Surname: {val.LAST_NAME}</h2>
-          })}
-        </div>
+       
     </div>
   );
 }

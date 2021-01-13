@@ -1,0 +1,21 @@
+.displayStyle{
+    width: 90%;
+    height: 200px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+  
+}
+
+.displayStyle h5{
+    padding: 5px;
+}
+
+.displayStyle p{
+    font-size: small;
+}
+
+.butonClass{
+    margin: 30px;
+}
